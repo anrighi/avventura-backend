@@ -112,3 +112,5 @@ exports
 dist
 build
 .strapi-updater.json
+.strapi/client/app.js
+.strapi/client/index.html
